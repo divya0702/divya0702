@@ -1,8 +1,10 @@
 # Divya Kamila
 
+**[Portfolio](https://github.com/divya0702/portfolio)**
+
 **Frontend → Cloud → Applied AI**
 
-I started with pixels and performance. Then I wanted to understand what sits beneath the interface — so I went deep into cloud infrastructure, distributed systems, and Kubernetes. Now I am pushing into Applied AI: building systems that reason, automate the repetitive, and scale without breaking.
+I started with pixels and performance. Then I wanted to understand what sits beneath the interface, so I went deep into cloud infrastructure, distributed systems, and Kubernetes. Now I am pushing into Applied AI: building systems that reason, automate the repetitive, and scale without breaking.
 
 Currently finishing an **M.Eng in Cloud Engineering at the University of Maryland** while working as a Graduate Research Assistant building AI-powered tools for digital humanities research.
 
@@ -48,7 +50,7 @@ TrOCR + PyTorch pipeline digitizing 18th-century manuscripts. 60% reduction in m
 
 ## Background
 
-B.E. in Electronics and Telecommunications gave me an early instinct for systems thinking — how things connect, fail, and recover. That foundation shapes how I approach cloud architecture and distributed systems today.
+B.E. in Electronics and Telecommunications gave me an early instinct for systems thinking: how things connect, fail, and recover. That foundation shapes how I approach cloud architecture and distributed systems today.
 
 ---
 
