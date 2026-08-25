@@ -1,6 +1,6 @@
 # Divya Kamila
 
-**[Portfolio](https://github.com/divya0702/portfolio)**
+**[Portfolio](https://divya0702.github.io/portfolio/)**
 
 **Frontend → Cloud → Applied AI**
 
